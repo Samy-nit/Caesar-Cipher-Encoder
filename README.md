@@ -1,2 +1,2 @@
 # Caesar Cipher Encoder
- Caesar Cipher Encoder built with Python
+ Caesar Cipher built with Python to create Caesar Cipher Encoder.
